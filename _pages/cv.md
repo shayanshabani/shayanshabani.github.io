@@ -11,54 +11,50 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.Sc. in Computer Engineering, Sharif University of Technology, Since Sep. 2021
 
-Work experience
+Work & Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Fall 2023 - Present: Research Assistant
+  * Data Science and Machine Learning Lab
+  * Research Areas: Recommender Systems, Bayesian Neural Networks, Social Networks 
+  * Supervisor: Prof. Hamid R. Rabiee
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2024: Full-Stack developer intern
+  * Abarkelas
+  * Technologies: Django, Vue.js, PostgreSQL, Docker
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Pytorch, Transformers, BERT, LangChain, Scikit-learn, NLTK
+* Python, C/C++, Go, Java, Javascript
+* Django, Vue.js, React
+* PostgreSQL, Redis, MongoDB, Docker
+  
+Teaching Assistant Experience
+======
+* Machine Learning - Prof. Sharifi Zarchi - Fall 2024
+* Artificial Intelligence - Prof. MH Rohban - Fall 2024
+* System Analysis \& Design (Head TA) - Dr. Maryam Ramezani - Fall 2024
+* Linear Algebra - Prof. Hamid R. Rabiee - Fall 2023, Spring 2024, Fall 2024
+* Probability \& Statistics - Prof. Amir Najafi - Fall 2023 \& 2024
+* Database Design (Head TA) - Dr. Maryam Ramezani - Spring 2024
+* Theory of Machines \& Languages - Prof. Mohammad Izadi - Spring 2024
+* Web Programming - Mr. Mohammad Nazari - Fall 2023
+* Logic Design - Dr. Laleh Arshadi - Fall 2023
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+
+
+
+
+
+
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Executive staff - ICPC Asia Tehran regional - 2023
+* Chief of executive staff - ASM Masters - 2023
+* Social staff - 8<sup>th</sup> Winter Seminar Series
+* Executive staff - She'r ta Code - 2024
+* Executive staff - Hardwar - 2024
