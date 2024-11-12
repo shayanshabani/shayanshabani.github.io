@@ -25,6 +25,11 @@ Work & Research Experience
   * Abarkelas
   * Technologies: Django, Vue.js, PostgreSQL, Docker
 
+Honors and Awards
+======
+Ranked 2<sup>nd</sup> among more than 140,000 participants of the Nationwide University
+Entrance Exam (Mathematics and Physics) - Aug. 2021
+
 Skills
 ======
 * Pytorch, Transformers, BERT, LangChain, Scikit-learn, NLTK
