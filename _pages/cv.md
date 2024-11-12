@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+
 
 Education
 ======
@@ -35,11 +36,11 @@ Teaching Assistant Experience
 ======
 * Machine Learning - Prof. Sharifi Zarchi - Fall 2024
 * Artificial Intelligence - Prof. MH Rohban - Fall 2024
-* System Analysis \& Design (Head TA) - Dr. Maryam Ramezani - Fall 2024
+* System Analysis & Design (Head TA) - Dr. Maryam Ramezani - Fall 2024
 * Linear Algebra - Prof. Hamid R. Rabiee - Fall 2023, Spring 2024, Fall 2024
-* Probability \& Statistics - Prof. Amir Najafi - Fall 2023 \& 2024
+* Probability & Statistics - Prof. Amir Najafi - Fall 2023 & 2024
 * Database Design (Head TA) - Dr. Maryam Ramezani - Spring 2024
-* Theory of Machines \& Languages - Prof. Mohammad Izadi - Spring 2024
+* Theory of Machines & Languages - Prof. Mohammad Izadi - Spring 2024
 * Web Programming - Mr. Mohammad Nazari - Fall 2023
 * Logic Design - Dr. Laleh Arshadi - Fall 2023
 
