@@ -10,5 +10,5 @@ redirect_from:
 About Me!
 ======
 I am an undergraduate Computer Engineering student in my final year of studies at Sharif University of Technology.
-My research interest is in information retrieval, recommender systems, explainable ai, and theoretical and applied machine learning.
+My research interest is in information retrieval, recommender systems, explainable AI, and theoretical and applied machine learning.
 
