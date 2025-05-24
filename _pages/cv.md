@@ -17,14 +17,10 @@ Education
 Work & Research Experience
 ======
 * Fall 2023 - Present: Research Assistant
-  * Data Science and Machine Learning Lab
-  * Research Areas: Recommender Systems, Bayesian Neural Networks, Social Networks 
-  * Supervisor: Prof. Hamid R. Rabiee
-
-* Summer 2024: Full-Stack developer intern
-  * Abarkelas
-  * Technologies: Django, Vue.js, PostgreSQL, Docker
-
+  * Computer Engineering Department of Sharif University of Technology
+  * Research Areas: Statistical Modeling and Recommendation Systems 
+  * Supervisor: Dr. Maryam Ramezani
+  
 Honors and Awards
 ======
 Ranked 2<sup>nd</sup> among more than 140,000 participants of the Nationwide University
@@ -60,7 +56,4 @@ Teaching Assistant Experience
 Service and leadership
 ======
 * Executive staff - ICPC Asia Tehran regional - 2023
-* Chief of executive staff - ASM Masters - 2023
 * Social staff - 8<sup>th</sup> Winter Seminar Series
-* Executive staff - She'r ta Code - 2024
-* Executive staff - Hardwar - 2024
