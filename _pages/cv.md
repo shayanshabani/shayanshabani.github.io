@@ -14,7 +14,7 @@ Education
 ======
 * B.Sc. in Computer Engineering, Sharif University of Technology, Since Sep. 2021
 
-Work & Research Experience
+Research Experience
 ======
 * Fall 2023 - Present: Research Assistant
   * Computer Engineering Department of Sharif University of Technology
@@ -35,15 +35,14 @@ Skills
   
 Teaching Assistant Experience
 ======
-* Machine Learning - Prof. Sharifi Zarchi - Fall 2024
-* Artificial Intelligence - Prof. MH Rohban - Fall 2024
-* System Analysis & Design (Head TA) - Dr. Maryam Ramezani - Fall 2024
-* Linear Algebra - Prof. Hamid R. Rabiee - Fall 2023, Spring 2024, Fall 2024
-* Probability & Statistics - Prof. Amir Najafi - Fall 2023 & 2024
-* Database Design (Head TA) - Dr. Maryam Ramezani - Spring 2024
-* Theory of Machines & Languages - Prof. Mohammad Izadi - Spring 2024
-* Web Programming - Mr. Mohammad Nazari - Fall 2023
-* Logic Design - Dr. Laleh Arshadi - Fall 2023
+* Linear Algebra (Head TA) - Spring 2025
+* System Analysis & Design (Head TA) - Fall 2024
+* Linear Algebra - Fall 2023, Spring 2024, Fall 2024
+* Probability & Statistics - Fall 2023 & 2024
+* Database Design (Head TA) - Spring 2024
+* Theory of Machines & Languages - Spring 2024
+* Web Programming - Fall 2023
+* Logic Design - Fall 2023
 
 
 
